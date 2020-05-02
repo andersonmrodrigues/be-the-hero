@@ -1,5 +1,4 @@
-import React, { useState } from 'react';
-import Login from './pages/Login';
+import React from 'react';
 import './global.css';
 
 import Routes from './routes';
